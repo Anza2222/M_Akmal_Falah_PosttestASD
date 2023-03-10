@@ -1,0 +1,4 @@
+# FUNGSIONALITAS
+Linear Search merupakan sebuah teknik pencarian data dengan menelusuri semua data satu per satu. Apabila ditemukan kecocokan data maka program akan mengembalikan output, jika tidak pencarian akan terus berlanjut hingga akhir dari array tersebut. 
+# CARA KERJA PROGRAM
+Ketika program dijalankkan oleh user maka user akan ditampilkan metode-metode apa saja yang dapat digunakan, setelah itu user diminta untuk memasukan pilihan metode yang mana yang ingin digunakan, setelah memilih user metode yang ingin digunakan user diminta untuk memasukan nama dari list yang ingin dilihat indexnya, setalah itu program akan menampilkan di index berapa nama tersebut berada
